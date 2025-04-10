@@ -18,11 +18,11 @@ public class Student {
 
         Student[] students = new Student[5];
 
-        students[0] = new Student("SV001", "Nguyen Van A", "a@gmail.com", 20, 8.5);
-        students[1] = new Student("SV002", "Tran Thi B", "b@gmail.com", 21, 7.0);
-        students[2] = new Student("SV003", "Le Van C", "c@gmail.com", 22, 4.5);
-        students[3] = new Student("SV004", "Pham Thi D", "d@gmail.com", 19, 6.5);
-        students[4] = new Student("SV005", "Hoang Van E", "e@gmail.com", 20, 5.0);
+        students[0] = new Student("SV001", "Nguyen Van A", "nguyenvanA@gmail.com", 20, 8.5);
+        students[1] = new Student("SV002", "Bùi Văn long", "Longcongchua@gmail.com", 21, 7.0);
+        students[2] = new Student("SV003", "Anh Tuấn kk", "TuanBanhBeo@gmail.com", 22, 4.5);
+        students[3] = new Student("SV004", "Đào Duy Anh", "AnhCongTu@gmail.com", 19, 6.5);
+        students[4] = new Student("SV005", "Phạm Trung Hiếu", "hieubaclieu@gmail.com", 20, 5.0);
 
         //  Tính độ tuổi trung bình
         double totalAge = 0;
