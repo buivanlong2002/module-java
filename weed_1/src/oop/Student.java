@@ -6,6 +6,7 @@ public class Student {
     int age;
     double grade;
 
+
     public Student(String id, String fullName, String email, int age, double grade) {
         this.id = id;
         this.fullName = fullName;
