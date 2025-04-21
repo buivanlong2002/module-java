@@ -1,4 +1,4 @@
-package stack_queue;
+package stack_queue.th_1;
 
 import java.util.EmptyStackException;
 import java.util.LinkedList;
