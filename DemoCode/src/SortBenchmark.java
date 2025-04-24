@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class SortBenchmark {
     public static void main(String[] args) {
-        int size = 100000;
+        int size = 10000;
         int[] originalArray = generateRandomArray(size);
         int[] heapArray = Arrays.copyOf(originalArray, originalArray.length);
         int[] bubbleArray = Arrays.copyOf(originalArray, originalArray.length);
