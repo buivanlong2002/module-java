@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	D:\CodeGym\code\module_java\CaseStudy\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\CodeGym\code\module_java\CaseStudy\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	D:\CodeGym\code\module_java\CaseStudy\jre
+Check launcher:	D:\CodeGym\code\module_java\CaseStudy\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (OK)
+Launcher:	D:\CodeGym\code\module_java\CaseStudy\jre\bin\javaw.exe
+Launcher args:	-jar "D:\CodeGym\code\module_java\CaseStudy\app.exe"
+Args length:	52/32768 chars
+Exit code:	0
