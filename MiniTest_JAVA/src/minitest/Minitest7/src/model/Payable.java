@@ -1,4 +1,4 @@
-package minitest.minitest_7.model;
+package minitest.Minitest7.src.model;
 
 public interface Payable {
     double calculateTotalPrice();
