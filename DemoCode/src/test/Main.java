@@ -52,7 +52,7 @@ public class Main {
         Thread user1 = new Thread(new WithdrawTask(account, 700), "User-1");
         Thread user2 = new Thread(new WithdrawTask(account, 500), "User-2");
         Thread user3 = new Thread(new WithdrawTask(account, 300), "User-3");
-        Thread user4 = new Thread(new WithdrawTask(account, 1000), "User-4");
+        Thread user4 = new Thread(new WithdrawTask(account, 100), "User-4");
         Thread user5 = new Thread(new WithdrawTask(account, 900), "User-5");
 
         user1.start();
